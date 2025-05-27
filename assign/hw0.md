@@ -9,7 +9,7 @@ title: Homework 0
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Thursday, June 8th (11pm Baltimore time).</strong></li>
+<li><strong>Due: Thursday, June 2nd (11pm Baltimore time).</strong></li>
 <li><em>This assignment is worth 20 points.</em></li>
 </ul>
 </div>
@@ -38,7 +38,7 @@ title: Homework 0
 <div class='title'>Caution</div>
 <div class='content'>
 <p>You should receive an invitation to the jhu-ip organization and your
-private repository by <strong>Thursday, January 26th</strong>. If you
+private repository by <strong>Friday, May 30th</strong>. If you
 haven't received it, post privately for all instructors on Piazza.</p>
 </div>
 </div>
