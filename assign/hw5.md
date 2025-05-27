@@ -9,7 +9,7 @@ title: Homework 5
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Thursday <strong>July 11th</strong> at 11pm ET (Baltimore time).</strong></li>
+<li><strong>Due: Monday <strong>July 14th</strong> at 11pm ET (Baltimore time).</strong></li>
 <li><em>This assignment is worth 60 points.</em></li>
 </ul>
 </div>
