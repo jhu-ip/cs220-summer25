@@ -9,7 +9,7 @@ title: Midterm Project
 <div class='content'>
 <ul>
 <li>You are expected to work in a team of two or three.</li>
-<li><strong>Due: Friday June 28th at 11pm EDT (Baltimore time).</strong></li>
+<li><strong>Due: Friday June 27th at 11pm EDT (Baltimore time).</strong></li>
 </ul>
 </div>
 </div>
