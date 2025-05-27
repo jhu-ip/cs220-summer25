@@ -9,7 +9,7 @@ title: Homework 3
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Thursday, June 20nd at 11pm EDT (Baltimore time).</strong></li>
+<li><strong>Due: Monday, June 16th at 11pm EDT (Baltimore time).</strong></li>
 <li><em>This assignment is worth 60 points.</em></li>
 </ul>
 </div>
