@@ -79,11 +79,6 @@ The following sites will be used heavily during the course:
 -   The course website is
     [jhu-ip.github.io/cs220-summer25/](https://jhu-ip.github.io/cs220-summer25).
 
--   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2025/601220">https://piazza.com/jhu/summer2025/601220</a>)
-    will serve as our primary communication channel. You should sign up
-    for Piazza immediately.
-
 -   Slack
     (<a class="external" target="_blank" href="https://join.slack.com/t/cs220intermed-v4s2392/shared_invite/zt-1vwjuglw4-ojh7TV9u~bWANyAHxrOiGA">Link to join slack workspace</a>) will be used for questions during the synchronous sessions
 
