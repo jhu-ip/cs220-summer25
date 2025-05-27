@@ -1,10 +1,10 @@
-# 601.220 Intermediate Programming, Summer 2024, at JHU
+# 601.220 Intermediate Programming, Summer 2025, at JHU
 
 This is the public website Github repository for 601.220 Intermediate Programming,
-Summer 2023, at [Johns Hopkins University](https://www.jhu.edu).
+Summer 2025, at [Johns Hopkins University](https://www.jhu.edu).
 
 The actual website (generated from the contents of this repository) is
-<https://jhu-ip.github.io/cs220-summer24/>.
+<https://jhu-ip.github.io/cs220-summer25/>.
 
 ## Editing and updating the course website
 
