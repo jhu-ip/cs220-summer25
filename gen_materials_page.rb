@@ -14,7 +14,7 @@ require 'csv'
 require 'date'
 
 # This should be set to the calendar year when the course is being offered
-CURRENT_YEAR = '2024'
+CURRENT_YEAR = '2025'
 
 # If any days should not be numbered, specify them here.
 # This is a useful hack if an "extra" work/non-course-content day
