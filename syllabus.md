@@ -8,7 +8,7 @@ category: "syllabus"
 **Syllabus**\
 **Computer Science EN.601.220**\
 **Intermediate Programming**\
-**Summer 2024 (4 credits, E, online)**
+**Summer 2025 (4 credits, E, online)**
 
 *(The instructors reserve the right to make adjustments to this
 syllabus as deemed necessary with notice.)*
@@ -42,13 +42,13 @@ syllabus as deemed necessary with notice.)*
 
 **Instructor**
 
-Juan Antonio Barragan\
-<mailto:jbarrag3@jh.edu>\\
+Paul Martin\
+<mailto:pdm@jh.edu>\\
 Office hours: TBD
 
 **Meetings**
 
-MWF 10:00 am – 12:15 am, via Zoom
+MWF 10:00 am – 10:50 am, via Zoom
 
 **Course Assistants**
 
@@ -75,10 +75,10 @@ See the course [website staff page](staff.html).
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-summer24/](https://jhu-ip.github.io/cs220-summer24).
+    [jhu-ip.github.io/cs220-summer25/](https://jhu-ip.github.io/cs220-summer25).
 
 -   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2024/601220">https://piazza.com/jhu/summer2024/601220</a>)
+    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2025/601220">https://piazza.com/jhu/summer2025/601220</a>)
     will serve as our primary communication channel. You should sign up
     for Piazza immediately.
 
@@ -303,11 +303,11 @@ gradescope and get autograder feedback on them.
 
 -   14% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date July 5th)
+-   17% - midterm exam (in class, date July 7th)
 
 -   16% - final coding project (in teams)
 
--   17% - final exam (in class, date July 28th)
+-   17% - final exam (in class, date August 1st)
 -->
 
 -   36% - individual coding homework (4.5 total; due dates vary, will be
@@ -315,11 +315,11 @@ gradescope and get autograder feedback on them.
 
 -   14% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date July 5th)
+-   17% - midterm exam (in class, date July 7th)
 
 -   16% - final coding project (in teams)
 
--   17% - final exam (in class, date July 5th)
+-   17% - final exam (in class, date August 1st)
 
 All scores and grader commentary on your homework and project
 submissions, as well as exams, will be available via Gradescope. Please
@@ -398,22 +398,6 @@ the web at these sites:
 
 **Personal Wellbeing**
 
-* Because of the ongoing COVID-19 pandemic special requirements may
-  be in effect this term, and these may vary during the term. Please keep
-  updated with these at the following sites:
-  * University information: <https://covidinfo.jhu.edu/>
-  * Whiting School of Engineering information: <https://engineering.jhu.edu/covid-19/>
-* COVID-19 vaccination a required unless an exception has been granted
-  by the university for health or religious reasons.
-* The Johns Hopkins COVID-19 Call Center (JHCCC), which
-  can be reached at 443-287-8500 seven days a week from 7
-  a.m. to 7 p.m., supports all JHU students, faculty, and
-  staff experiencing COVID-19 symptoms. Primarily intended
-  for those currently within driving distance of Baltimore, the
-  JHCCC will evaluate your symptoms, order testing if needed, and conduct
-  contact investigation for those affiliates who test positive. More
-  information on the JHCCC and testing is on the
-  [coronavirus information website](https://covidinfo.jhu.edu/health-safety/johns-hopkins-covid-19-call-center/).
 * If you are sick please notify me by email so that we
   can make appropriate accommodations should this affect
   your ability to attend class, complete assignments, or
@@ -491,7 +475,7 @@ and return as needed.
 **University Policy on Incompletes**
 
 There are important revisions to the Incomplete Grade policy in effect
-for **UNDERGRADUATES** for the 2022-2023 academic year. The full policy is
+for **UNDERGRADUATES** for the 2024-2025 academic year. The full policy is
 available here: <https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
 
 The following text is an excerpt:  
@@ -522,21 +506,6 @@ day of classes</span></b>. Formerly, the default deadline was the end of the thi
 of the following semester. See the full catalogue entry for considerations
 for students on academic probation and graduating students.
 
-<!--
-**Deadlines for Adding, Dropping and Withdrawing from Courses**
-
-Students may add a course up to **February 3, 2023** (independent academic
-work such as research may be added until **March 5, 2023**). They may
-drop courses up until **March 5, 2023** provided they remain registered
-for a minimum of 12 credits. Between **March 6, 2023** and **April 14,
-2023** a student may withdraw from a course with a W on their academic
-record. A record of the course will remain on the academic record with a
-W appearing in the grade column to indicate that the student registered
-and then withdrew from the course.
-
-For more information on these and other academic policies, see
-<https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
--->
 
 ## The Office of Academic Support at JHU
 
