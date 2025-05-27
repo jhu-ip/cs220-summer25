@@ -11,7 +11,7 @@ category: "staff"
 <div class="card_container">
 
 <div class="card">
-  <img alt="Paul photo" src="{{site.baseurl}}/img/staffpix/paul">
+  <img alt="Paul photo" src="{{site.baseurl}}/img/staffpix/paul.jpg">
   <div class="details">
    <span class="name_and_role">Paul Martin</span><br>
    Department of Computer Science<br>
