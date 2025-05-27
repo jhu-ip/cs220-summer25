@@ -31,13 +31,6 @@ exercises, homeworks, and projects are shared via the course
 <a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-summer25-public">public repository</a>.
 You may never share your private repository with anyone else.
 
-<a class="external" target="_blank" href="https://piazza.com/jhu/summer2025/601220/home">Piazza</a> is
-the main communication channel. If you have any questions or concerns,
-post on Piazza. You can do either public or private posts (anonymously
-if you want!). If others could potentially benefit from your question,
-consider making it public. *Never include your homework/project solution
-code in a public post.*
-
 <a class="external" target="_blank" href="https://www.gradescope.com/">Gradescope</a> is used for
 assignment submission and handling. You make all your submissions on
 Gradescope and recieve feedback and your work in there. Regrade requests
