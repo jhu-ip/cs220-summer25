@@ -44,15 +44,17 @@ syllabus as deemed necessary with notice.)*
 
 Paul Martin\
 <mailto:pdm@jh.edu>\\
-Office hours: TBD
+Office hours: By appointment (for online courses)
 
 **Meetings**
 
-MWF 10:00 am – 10:50 am, via Zoom
+MWF 9:00 am – 10:50 am, via Zoom
 
-**Course Assistants**
+**Head Teaching Assistant**
 
-See the course [website staff page](staff.html).
+Rachael Pei\
+<mailto:rpei2@jh.edu>\\
+Office hours: By appointment (for online courses)
 
 **Textbooks**
 
