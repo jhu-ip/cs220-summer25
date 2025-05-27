@@ -1,264 +1,283 @@
 Week,Day,Date,Type,Link text,URL
-1,1,3-Jun,Video,Course intro,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82661007-f96c-473e-8377-af8e015e24f0
-1,1,3-Jun,Video,"Linux, ugrad accounts",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1273cccc-b312-47d4-802a-ae2200fefc22
-1,1,3-Jun,Slides,Course intro,slides/day01_intro.pdf
-1,1,3-Jun,Slides,"Linux, ugrad accounts",slides/day01_linux_basics.pdf
-1,1,3-Jun,Recap,Day 1,questions/day01.html
-1,1,3-Jun,Exercise,Exercise 1,exercise/ex01.html
-1,1,3-Jun,Resource,Unix/Linux Tutorial,https://cs.jhu.edu/~joanne/unix.html
-1,1,3-Jun,Resource,Unix/Linux Reference Card,https://cs.jhu.edu/~joanne/unixRC.pdf
-1,1,3-Jun,Resource,Github SSH key setup,resources/github-ssh.html
-1,1,3-Jun,Video,Hello world program in C,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a42038f-6e6e-43cb-958a-ae230027ad23
-1,1,3-Jun,Video,C basics,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7fc4118-f301-40bb-8693-ae230027ac09
-1,1,3-Jun,Slides,Hello world program in C,slides/day02_hello_world_c.pdf
-1,1,3-Jun,Slides,C basics,slides/day02_c_basics.pdf
-1,1,3-Jun,Recap,Day 2,questions/day02.html
-1,1,3-Jun,Exercise,Exercise 2,exercise/ex02.html
-1,1,3-Jun,Resource,Online C compiler,https://www.onlinegdb.com/online_c_compiler
-1,1,3-Jun,LectureSlides,Day 01 Notes, slides/summer24_slides/summer24_session01_day01-02_annotated.pdf
+1,1,28-May,Video,Course intro,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82661007-f96c-473e-8377-af8e015e24f0
+1,1,28-May,Video,"Linux, ugrad accounts",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1273cccc-b312-47d4-802a-ae2200fefc22
+1,1,28-May,Slides,Course intro,slides/day01_intro.pdf
+1,1,28-May,Slides,"Linux, ugrad accounts",slides/day01_linux_basics.pdf
+1,1,28-May,Recap,Day 1,questions/day01.html
+1,1,28-May,Exercise,Exercise 1,exercise/ex01.html
+1,1,28-May,Resource,Unix/Linux Tutorial,https://cs.jhu.edu/~joanne/unix.html
+1,1,28-May,Resource,Unix/Linux Reference Card,https://cs.jhu.edu/~joanne/unixRC.pdf
+1,1,28-May,Resource,Github SSH key setup,resources/github-ssh.html
+1,1,28-May,Video,Hello world program in C,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a42038f-6e6e-43cb-958a-ae230027ad23
+1,1,28-May,Video,C basics,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7fc4118-f301-40bb-8693-ae230027ac09
+1,1,28-May,Slides,Hello world program in C,slides/day02_hello_world_c.pdf
+1,1,28-May,Slides,C basics,slides/day02_c_basics.pdf
+1,1,28-May,Recap,Day 2,questions/day02.html
+1,1,28-May,Exercise,Exercise 2,exercise/ex02.html
+1,1,28-May,Resource,Online C compiler,https://www.onlinegdb.com/online_c_compiler
+1,1,28-May,LectureSlides,Day 01 Notes, slides/summer24_slides/summer24_session01_day01-02_annotated.pdf
 
-1,2,5-Jun,Video,Editors (emacs),https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4
-1,2,5-Jun,Video,Git,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf
-1,2,5-Jun,Video,Submission workflow,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60
-1,2,5-Jun,Slides,Editors (emacs),slides/day03_editors.pdf
-1,2,5-Jun,Slides,Git,slides/day03_git.pdf
-1,2,5-Jun,Slides,Submission workflow,slides/day03_submission_workflow.pdf
-1,2,5-Jun,Recap,Day 3,questions/day03.html
-1,2,5-Jun,Exercise,Exercise 3-A,exercise/ex03a.html
-1,2,5-Jun,Exercise,Exercise 3-B,exercise/ex03b.html
-1,2,5-Jun,Resource,Emacs reference card,https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
-1,2,5-Jun,Resource,Interactive Vim tutorial,https://www.openvim.com/
-1,2,5-Jun,Resource,Vim lecture video,https://missing.csail.mit.edu/2020/editors/ 
-1,2,5-Jun,Resource,Git cheatsheet,https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
-1,2,5-Jun,Video,"Logical operators, control flow",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45b14d44-3d4e-4fd7-b0c0-ae230027aef2
-1,2,5-Jun,Slides,"Logical operators, control flow",slides/day04_control_flow.pdf
-1,2,5-Jun,Recap,Day 4,questions/day04.html
-1,2,5-Jun,Exercise,Exercise 4,exercise/ex04.html
-1,2,5-Jun,LectureSlides,Day 2 Notes (annotated),slides/summer24_slides/summer24_session02_day03-04_annotated.pdf
+1,2,30-May,Video,Editors (emacs),https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4
+1,2,30-May,Video,Git,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf
+1,2,30-May,Video,Submission workflow,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60
+1,2,30-May,Slides,Editors (emacs),slides/day03_editors.pdf
+1,2,30-May,Slides,Git,slides/day03_git.pdf
+1,2,30-May,Slides,Submission workflow,slides/day03_submission_workflow.pdf
+1,2,30-May,Recap,Day 3,questions/day03.html
+1,2,30-May,Exercise,Exercise 3-A,exercise/ex03a.html
+1,2,30-May,Exercise,Exercise 3-B,exercise/ex03b.html
+1,2,30-May,Resource,Emacs reference card,https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
+1,2,30-May,Resource,Interactive Vim tutorial,https://www.openvim.com/
+1,2,30-May,Resource,Vim lecture video,https://missing.csail.mit.edu/2020/editors/ 
+1,2,30-May,Resource,Git cheatsheet,https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+1,2,30-May,Video,"Logical operators, control flow",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45b14d44-3d4e-4fd7-b0c0-ae230027aef2
+1,2,30-May,Slides,"Logical operators, control flow",slides/day04_control_flow.pdf
+1,2,30-May,Recap,Day 4,questions/day04.html
+1,2,30-May,Exercise,Exercise 4,exercise/ex04.html
+1,2,30-May,LectureSlides,Day 2 Notes (annotated),slides/summer24_slides/summer24_session02_day03-04_annotated.pdf
 
-1,3,7-Jun,Video,"Arrays, ASCII",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58f4d402-fd0d-4868-b805-ae230027ab93
-1,3,7-Jun,Video,C strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a4f1da-f6a1-4212-b686-ae230027ab33
-1,3,7-Jun,Slides,Arrays,slides/day05_arrays.pdf
-1,3,7-Jun,Slides,C strings,slides/day05_c_strings.pdf
-1,3,7-Jun,Recap,Day 5,questions/day05.html
-1,3,7-Jun,Exercise,Exercise 5,exercise/ex05.html
-1,3,7-Jun,Video,"File I/O, assert, math functions",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae149930-15ce-460c-a2df-ae230027aac0
-1,3,7-Jun,Video,"Writing functions, command line arguments",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1de2958b-f8b8-4fae-ac47-ae230027aa77
-1,3,7-Jun,Slides,"File I/O, assert, math functions",slides/day06_fileio_assertion_math.pdf
-1,3,7-Jun,Slides,"Writing functions, command line arguments",slides/day06_functions_command_line_arguments.pdf
-1,3,7-Jun,Recap,Day 6,questions/day06.html
-1,3,7-Jun,Exercise,Exercise 6,exercise/ex06.html
-1,3,7-Jun,LectureSlides,Day 3 Notes (annotated),slides/summer24_slides/summer24_session03_day05-06_annotated.pdf
+2,1,2-Jun,Video,"Arrays, ASCII",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58f4d402-fd0d-4868-b805-ae230027ab93
+2,1,2-Jun,Video,C strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a4f1da-f6a1-4212-b686-ae230027ab33
+2,1,2-Jun,Slides,Arrays,slides/day05_arrays.pdf
+2,1,2-Jun,Slides,C strings,slides/day05_c_strings.pdf
+2,1,2-Jun,Recap,Day 5,questions/day05.html
+2,1,2-Jun,Exercise,Exercise 5,exercise/ex05.html
+2,1,2-Jun,Video,"File I/O, assert, math functions",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae149930-15ce-460c-a2df-ae230027aac0
+2,1,2-Jun,Video,"Writing functions, command line arguments",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1de2958b-f8b8-4fae-ac47-ae230027aa77
+2,1,2-Jun,Slides,"File I/O, assert, math functions",slides/day06_fileio_assertion_math.pdf
+2,1,2-Jun,Slides,"Writing functions, command line arguments",slides/day06_functions_command_line_arguments.pdf
+2,1,2-Jun,Recap,Day 6,questions/day06.html
+2,1,2-Jun,Exercise,Exercise 6,exercise/ex06.html
+2,1,2-Jun,LectureSlides,Day 3 Notes (annotated),slides/summer24_slides/summer24_session03_day05-06_annotated.pdf
 
-2,1,10-Jun,Slides,Function declarations,slides/day07_function_declaration.pdf
-2,1,10-Jun,Slides,Passing arrays to functions,slides/day07_passing_arrays_to_functions.pdf
-2,1,10-Jun,Slides,Recursion,slides/day07_recursion.pdf
-2,1,10-Jun,Video,Function declarations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbef007b-88a8-4e42-bcc4-ae230027a8f4
-2,1,10-Jun,Video,Passing arrays to functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c18158bd-cf31-48c4-a2c0-ae230027a87e
-2,1,10-Jun,Video,Recursion,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12215376-94e9-48dd-8d5a-ae230027937e
-2,1,10-Jun,Recap,Day 7,questions/day07.html
-2,1,10-Jun,Exercise,Exercise 7,exercise/ex07.html
-2,1,10-Jun,Slides,Separate compilation,slides/day08_separate_compilation.pdf
-2,1,10-Jun,Slides,Makefiles,slides/day08_makefiles.pdf
-2,1,10-Jun,Slides,Header guards,slides/day08_header_guards.pdf
-2,1,10-Jun,Video,Separate compilation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76660996-f221-4bda-85bf-ae230027aa0b
-2,1,10-Jun,Video,Makefiles,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=956ae811-74a5-48f2-8d73-ae230027a9b0
-2,1,10-Jun,Video,Header guards,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948
-2,1,10-Jun,Recap,Day 8,questions/day08.html
-2,1,10-Jun,Exercise,Exercise 8,exercise/ex08.html
-2,1,10-Jun,LectureSlides,Day 4 Notes (annotated),slides/summer24_slides/summer24_session04_day07-08_annotated.pdf
+2,2,4-Jun,Slides,Function declarations,slides/day07_function_declaration.pdf
+2,2,4-Jun,Slides,Passing arrays to functions,slides/day07_passing_arrays_to_functions.pdf
+2,2,4-Jun,Slides,Recursion,slides/day07_recursion.pdf
+2,2,4-Jun,Video,Function declarations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbef007b-88a8-4e42-bcc4-ae230027a8f4
+2,2,4-Jun,Video,Passing arrays to functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c18158bd-cf31-48c4-a2c0-ae230027a87e
+2,2,4-Jun,Video,Recursion,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12215376-94e9-48dd-8d5a-ae230027937e
+2,2,4-Jun,Recap,Day 7,questions/day07.html
+2,2,4-Jun,Exercise,Exercise 7,exercise/ex07.html
+2,2,4-Jun,Slides,Separate compilation,slides/day08_separate_compilation.pdf
+2,2,4-Jun,Slides,Makefiles,slides/day08_makefiles.pdf
+2,2,4-Jun,Slides,Header guards,slides/day08_header_guards.pdf
+2,2,4-Jun,Video,Separate compilation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76660996-f221-4bda-85bf-ae230027aa0b
+2,2,4-Jun,Video,Makefiles,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=956ae811-74a5-48f2-8d73-ae230027a9b0
+2,2,4-Jun,Video,Header guards,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948
+2,2,4-Jun,Recap,Day 8,questions/day08.html
+2,2,4-Jun,Exercise,Exercise 8,exercise/ex08.html
+2,2,4-Jun,LectureSlides,Day 4 Notes (annotated),slides/summer24_slides/summer24_session04_day07-08_annotated.pdf
 
-2,2,12-Jun,Slides,"Multidimensional arrays, gdb",slides/day09_multidimensional_arrays_gdb.pdf
-2,2,12-Jun,Video,"Multidimensional arrays, gdb",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824
-2,2,12-Jun,Recap,Day 9,questions/day09.html
-2,2,12-Jun,Exercise,Exercise 9,exercise/ex09.html
-2,2,12-Jun,Resource,GDB Cheat Sheet,https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
-2,2,12-Jun,Video,Pointers,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3
-2,2,12-Jun,Slides,Pointers,slides/day10_pointers.pdf
-2,2,12-Jun,Recap,Day 10,questions/day10.html
-2,2,12-Jun,Exercise,Exercise 10,exercise/ex10.html
-2,2,12-Jun,Resource,Binky the Pointer (Video),https://www.youtube.com/watch?v=5VnDaHBi8dM
-2,2,12-Jun,LectureSlides,Day 5 Notes (annotated),slides/summer24_slides/summer24_session05_day09-10_annotated.pdf
+2,3,6-Jun,Slides,"Multidimensional arrays, gdb",slides/day09_multidimensional_arrays_gdb.pdf
+2,3,6-Jun,Video,"Multidimensional arrays, gdb",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824
+2,3,6-Jun,Recap,Day 9,questions/day09.html
+2,3,6-Jun,Exercise,Exercise 9,exercise/ex09.html
+2,3,6-Jun,Resource,GDB Cheat Sheet,https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+2,3,6-Jun,Video,Pointers,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3
+2,3,6-Jun,Slides,Pointers,slides/day10_pointers.pdf
+2,3,6-Jun,Recap,Day 10,questions/day10.html
+2,3,6-Jun,Exercise,Exercise 10,exercise/ex10.html
+2,3,6-Jun,Resource,Binky the Pointer (Video),https://www.youtube.com/watch?v=5VnDaHBi8dM
+2,3,6-Jun,LectureSlides,Day 5 Notes (annotated),slides/summer24_slides/summer24_session05_day09-10_annotated.pdf
 
-2,3,14-Jun,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746
-2,3,14-Jun,Video,Valgrind,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2
-2,3,14-Jun,Slides,Dynamic Memory Allocation,slides/day11_dynamic_memory_allocation.pdf
-2,3,14-Jun,Slides,Valgrind,slides/day11_valgrind.pdf
-2,3,14-Jun,Recap,Day 11,questions/day11.html
-2,3,14-Jun,Exercise,Exercise 11,exercise/ex11.html
-2,3,14-Jun,Video,Pointer Arithmetic,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303
-2,3,14-Jun,Video,"Dynamic 2-D Arrays, Pointers and Const",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9
-2,3,14-Jun,Slides,Pointer Arithmetic,slides/day12_pointer_arithmetic.pdf
-2,3,14-Jun,Slides,"Dynamic 2-D Arrays, Pointers and Const",slides/day12_more_pointers_dynamic_2d_arrays.pdf
-2,3,14-Jun,Recap,Day 12,questions/day12.html
-2,3,14-Jun,Exercise,Exercise 12,exercise/ex12.html
-2,3,14-Jun,LectureSlides,Day 6 Notes (annotated),slides/summer24_slides/summer24_session06_day11-12_annotated.pdf
-
-
-3,1,17-Jun,Video,Lifetime/Scope,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663
-3,1,17-Jun,Video,Structs,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4
-3,1,17-Jun,Video,Random number generation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7
-3,1,17-Jun,Slides,Lifetime/Scope,slides/day13_lifetime_scope.pdf
-3,1,17-Jun,Slides,Structs,slides/day13_struct_type.pdf
-3,1,17-Jun,Slides,Random number generation,slides/day13_random_numbers.pdf
-3,1,17-Jun,Recap,Day 13,questions/day13.html
-3,1,17-Jun,Exercise,Exercise 13,exercise/ex13.html
-3,1,17-Jun,Video,Binary file I/O,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f
-3,1,17-Jun,Video,Bitwise operations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246
-3,1,17-Jun,Slides,Binary file I/O,slides/day14_binary_file_io.pdf
-3,1,17-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
-3,1,17-Jun,Recap,Day 14,questions/day14.html
-3,1,17-Jun,Exercise,Exercise 14,exercise/ex14.html
-3,1,17-Jun,LectureSlides,Day 7 Notes (annotated),slides/summer24_slides/summer24_session07_day13-14_annotated.pdf
-
-3,2,19-Jun,Exercise,No class (Juneteenth),#
-
-3,3,21-Jun,Video,"Number representation,<br>type conversion/casting",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af
-3,3,21-Jun,Slides,"Number representation,<br>type conversion/casting",slides/day15_number_rep_type_conversions.pdf
-3,3,21-Jun,Recap,Day 15,questions/day15.html
-3,3,21-Jun,Exercise,Exercise 15,exercise/ex15.html
-3,3,21-Jun,Slides,"Midterm project overview", slides/summer23_slides/summer23_midterm_project_overview.pdf
-3,3,21-Jun,LectureSlides,Day 9 Notes (annotated),slides/summer24_slides/summer24_session09_day15-00_annotated.pdf
-
-4,1,24-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
-4,1,24-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
-4,1,24-Jun,Recap,Day 17,questions/day17.html
-4,1,24-Jun,Exercise,Exercise 17,exercise/ex17.html
-4,1,24-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
-4,1,24-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
-4,1,24-Jun,Recap,Day 18,questions/day18.html
-4,1,24-Jun,Exercise,Exercise 18,exercise/ex18.html
-4,1,24-Jun,LectureSlides,Day 10 Notes (annotated),slides/summer24_slides/summer24_session10_day17-18_annotated.pdf
-
-4,2,26-Jun,Video,N/A,#
-4,2,26-Jun,Slides,N/A,#
-4,2,26-Jun,Recap,N/A,#
-4,2,26-Jun,Exercise,Midterm Project,assign/midterm.html
-
-4,3,28-Jun,Video,N/A,#
-4,3,28-Jun,Slides,N/A,#
-4,3,28-Jun,Recap,N/A,#
-4,3,28-Jun,Exercise,Midterm Project,assign/midterm.html
-4,3,28-Jun,Resource,Midterm Review Solutions,resources/MidtermReview-solutions.pdf
-4,3,28-Jun,Resource,Fall 2019 Midterm Solutions,resources/Midterm-Fall2019-solutions.pdf
-4,3,28-Jun,LectureSlides,Day 12 Notes (annotated),slides/summer24_slides/summer24_session12_day00-00_annotated.pdf
-
-5,1,1-Jul,Video,Introduction to C++,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb
-5,1,1-Jul,Video,C++ Strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f
-5,1,1-Jul,Slides,Introduction to C++,slides/day22_intro_cpp.pdf
-5,1,1-Jul,Slides,C++ Strings,slides/day22_cpp_strings.pdf
-5,1,1-Jul,Recap,Day 22,questions/day22.html
-5,1,1-Jul,LectureSlides,Day 13 Notes (annotated),slides/summer24_slides/summer24_session13_day22-00_annotated.pdf
-
-5,2,3-Jul,Exercise,Midterm Exam,#
-
-5,3,5-Jul,Video,Introduction to STL and templates,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736
-5,3,5-Jul,Slides,Introduction to STL and templates,slides/day23_stl_templates.pdf
-5,3,5-Jul,Recap,Day 23,questions/day23.html
-5,3,5-Jul,Exercise,Exercise 23,exercise/ex23.html
-5,3,5-Jul,Video,"STL Containers - map, pair, and tuple",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661
-5,3,5-Jul,Video,STL Algorithms,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be
-5,3,5-Jul,Slides,"STL Containers - map, pair, and tuple",slides/day24_more_stl_containers.pdf
-5,3,5-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
-5,3,5-Jul,Recap,Day 24,questions/day24.html
-5,3,5-Jul,Exercise,Exercise 24,exercise/ex24.html
-5,3,5-Jul,LectureSlides,"Day 15 Notes (annotated)",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
+3,1,9-Jun,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746
+3,1,9-Jun,Video,Valgrind,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2
+3,1,9-Jun,Slides,Dynamic Memory Allocation,slides/day11_dynamic_memory_allocation.pdf
+3,1,9-Jun,Slides,Valgrind,slides/day11_valgrind.pdf
+3,1,9-Jun,Recap,Day 11,questions/day11.html
+3,1,9-Jun,Exercise,Exercise 11,exercise/ex11.html
+3,1,9-Jun,Video,Pointer Arithmetic,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303
+3,1,9-Jun,Video,"Dynamic 2-D Arrays, Pointers and Const",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9
+3,1,9-Jun,Slides,Pointer Arithmetic,slides/day12_pointer_arithmetic.pdf
+3,1,9-Jun,Slides,"Dynamic 2-D Arrays, Pointers and Const",slides/day12_more_pointers_dynamic_2d_arrays.pdf
+3,1,9-Jun,Recap,Day 12,questions/day12.html
+3,1,9-Jun,Exercise,Exercise 12,exercise/ex12.html
+3,1,9-Jun,LectureSlides,Day 6 Notes (annotated),slides/summer24_slides/summer24_session06_day11-12_annotated.pdf
 
 
-6,1,08-Jul,Video,C++ I/O stream and stringstream,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562
-6,1,08-Jul,Video,Intro to Object Oriented Programming,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599
-6,1,08-Jul,Slides,C++ I/O stream and stringstream,slides/day25_cpp_file_io_stringstream.pdf
-6,1,08-Jul,Slides,Intro to Object Oriented Programming,slides/day25_intro_to_oo.pdf
-6,1,08-Jul,Recap,Day 25,questions/day25.html
-6,1,08-Jul,Exercise,Exercise 25,exercise/ex25.html
-6,1,08-Jul,Video,References,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516
-6,1,08-Jul,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc
-6,1,08-Jul,Slides,References,slides/day26_cpp_reference.pdf
-6,1,08-Jul,Slides,Dynamic Memory Allocation,slides/day26_dynamic_memory_allocation.pdf
-6,1,08-Jul,Recap,Day 26,questions/day26.html
-6,1,08-Jul,Exercise,Exercise 26,exercise/ex26.html
-6,1,08-Jul,LectureSlides,"Day 16 Notes (annotated)",slides/summer24_slides/summer24_session16_day25-26_annotated.pdf
+3,2,11-Jun,Video,Lifetime/Scope,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663
+3,2,11-Jun,Video,Structs,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4
+3,2,11-Jun,Video,Random number generation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7
+3,2,11-Jun,Slides,Lifetime/Scope,slides/day13_lifetime_scope.pdf
+3,2,11-Jun,Slides,Structs,slides/day13_struct_type.pdf
+3,2,11-Jun,Slides,Random number generation,slides/day13_random_numbers.pdf
+3,2,11-Jun,Recap,Day 13,questions/day13.html
+3,2,11-Jun,Exercise,Exercise 13,exercise/ex13.html
+3,2,11-Jun,Video,Binary file I/O,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f
+3,2,11-Jun,Video,Bitwise operations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246
+3,2,11-Jun,Slides,Binary file I/O,slides/day14_binary_file_io.pdf
+3,2,11-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
+3,2,11-Jun,Recap,Day 14,questions/day14.html
+3,2,11-Jun,Exercise,Exercise 14,exercise/ex14.html
+3,2,11-Jun,LectureSlides,Day 7 Notes (annotated),slides/summer24_slides/summer24_session07_day13-14_annotated.pdf
 
-6,2,10-Jul,Video,C++ Classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431
-6,2,10-Jul,Video,Default Constructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3
-6,2,10-Jul,Slides,C++ Classes,slides/day27_cpp_classes.pdf
-6,2,10-Jul,Slides,Default Constructors,slides/day27_default_constructor.pdf
-6,2,10-Jul,Recap,Day 27,questions/day27.html
-6,2,10-Jul,Exercise,Exercise 27,exercise/ex27.html
-6,2,10-Jul,Video,Constructors and default arguments,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050
-6,2,10-Jul,Video,Destructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3
-6,2,10-Jul,Slides,Constructors and default arguments,slides/day28_constructors.pdf
-6,2,10-Jul,Slides,Destructors,slides/day28_destructors.pdf
-6,2,10-Jul,Recap,Day 28,questions/day28.html
-6,2,10-Jul,Exercise,Exercise 28,exercise/ex28.html
-6,2,10-Jul,LectureSlides,"Day 17 Notes (annotated)",slides/summer24_slides/summer24_session17_day27-28_annotated.pdf
+3,3,13-Jun,Video,"Number representation,<br>type conversion/casting",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af
+3,3,13-Jun,Slides,"Number representation,<br>type conversion/casting",slides/day15_number_rep_type_conversions.pdf
+3,3,13-Jun,Recap,Day 15,questions/day15.html
+3,3,13-Jun,Exercise,Exercise 15,exercise/ex15.html
+3,3,13-Jun,Slides,"Midterm project overview", slides/summer23_slides/summer23_midterm_project_overview.pdf
+3,3,13-Jun,LectureSlides,Day 9 Notes (annotated),slides/summer24_slides/summer24_session09_day15-00_annotated.pdf
 
-6,3,12-Jul,Video,Function overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65
-6,3,12-Jul,Video,Operator overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e
-6,3,12-Jul,Slides,Function overloading,slides/day29_function_overloading.pdf
-6,3,12-Jul,Slides,Operator overloading,slides/day29_operator_overloading.pdf
-6,3,12-Jul,Recap,Day 29,questions/day29.html
-6,3,12-Jul,Exercise,Exercise 29,exercise/ex29.html
-6,3,12-Jul,Video,Initialization and assignment,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93
-6,3,12-Jul,Video,Rule of 3,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3
-6,3,12-Jul,Slides,Initialization and assignment,slides/day30_initialization_assignments.pdf
-6,3,12-Jul,Slides,Rule of 3,slides/day30_rule_of_3.pdf
-6,3,12-Jul,Recap,Day 30,questions/day30.html
-6,3,12-Jul,Exercise,Exercise 30,exercise/ex30.html
-6,3,12-Jul,LectureSlides,"Day 18 Notes (annotated)",slides/summer24_slides/summer24_session18_day29-30_annotated.pdf
+4,1,16-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
+4,1,16-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
+4,1,16-Jun,Recap,Day 17,questions/day17.html
+4,1,16-Jun,Exercise,Exercise 17,exercise/ex17.html
+4,1,16-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
+4,1,16-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
+4,1,16-Jun,Recap,Day 18,questions/day18.html
+4,1,16-Jun,Exercise,Exercise 18,exercise/ex18.html
+4,1,16-Jun,LectureSlides,Day 10 Notes (annotated),slides/summer24_slides/summer24_session10_day17-18_annotated.pdf
+
+4,2,18-Jun,Video,N/A,#
+4,2,18-Jun,Slides,N/A,#
+4,2,18-Jun,Recap,N/A,#
+4,2,18-Jun,Exercise,Midterm Project,assign/midterm.html
+
+4,3,20-Jun,Video,N/A,#
+4,3,20-Jun,Slides,N/A,#
+4,3,20-Jun,Recap,N/A,#
+4,3,20-Jun,LectureSlides,Day 12 Notes (annotated),slides/summer24_slides/summer24_session12_day00-00_annotated.pdf
+
+4,3,23-Jun,Video,N/A,#
+4,3,23-Jun,Slides,N/A,#
+4,3,23-Jun,Recap,N/A,#
+4,3,23-Jun,Exercise,TBD
+
+5,1,25-Jun,Video,N/A,#
+5,1,25-Jun,Slides,N/A,#
+5,1,25-Jun,Recap,N/A,#
+5,1,25-Jun,Exercise,TBD
+
+5,2,27-Jun,Video,N/A,#
+5,2,27-Jun,Slides,N/A,#
+5,2,27-Jun,Recap,N/A,#
+5,2,27-Jun,Exercise,TBD
+
+5,3,30-Jun,Video,N/A,#
+5,3,30-Jun,Slides,N/A,#
+5,3,30-Jun,Recap,N/A,#
+5,3,30-Jun,Resource,Midterm Review Solutions,resources/MidtermReview-solutions.pdf
+5,3,30-Jun,Resource,Fall 2019 Midterm Solutions,resources/Midterm-Fall2019-solutions.pdf
+5,3,30-Jun,Exercise,TBD
+
+6,1,2-Jul,Video,Introduction to C++,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb
+6,1,2-Jul,Video,C++ Strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f
+6,1,2-Jul,Slides,Introduction to C++,slides/day22_intro_cpp.pdf
+6,1,2-Jul,Slides,C++ Strings,slides/day22_cpp_strings.pdf
+6,1,2-Jul,Recap,Day 22,questions/day22.html
+6,1,2-Jul,LectureSlides,Day 13 Notes (annotated),slides/summer24_slides/summer24_session13_day22-00_annotated.pdf
+
+6,2,2-Jul,Exercise,Midterm Exam,#
+
+7,1,7-Jul,Video,Introduction to STL and templates,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736
+7,1,7-Jul,Slides,Introduction to STL and templates,slides/day23_stl_templates.pdf
+7,1,7-Jul,Recap,Day 23,questions/day23.html
+7,1,7-Jul,Exercise,Exercise 23,exercise/ex23.html
+7,1,7-Jul,Video,"STL Containers - map, pair, and tuple",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661
+7,1,7-Jul,Video,STL Algorithms,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be
+7,1,7-Jul,Slides,"STL Containers - map, pair, and tuple",slides/day24_more_stl_containers.pdf
+7,1,7-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
+7,1,7-Jul,Recap,Day 24,questions/day24.html
+7,1,7-Jul,Exercise,Exercise 24,exercise/ex24.html
+7,1,7-Jul,LectureSlides,"Day 15 Notes (annotated)",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
+
+7,2,9-Jul,Video,C++ I/O stream and stringstream,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562
+7,2,9-Jul,Video,Intro to Object Oriented Programming,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599
+7,2,9-Jul,Slides,C++ I/O stream and stringstream,slides/day25_cpp_file_io_stringstream.pdf
+7,2,9-Jul,Slides,Intro to Object Oriented Programming,slides/day25_intro_to_oo.pdf
+7,2,9-Jul,Recap,Day 25,questions/day25.html
+7,2,9-Jul,Exercise,Exercise 25,exercise/ex25.html
+7,2,9-Jul,Video,References,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516
+7,2,9-Jul,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc
+7,2,9-Jul,Slides,References,slides/day26_cpp_reference.pdf
+7,2,9-Jul,Slides,Dynamic Memory Allocation,slides/day26_dynamic_memory_allocation.pdf
+7,2,9-Jul,Recap,Day 26,questions/day26.html
+7,2,9-Jul,Exercise,Exercise 26,exercise/ex26.html
+7,2,9-Jul,LectureSlides,"Day 16 Notes (annotated)",slides/summer24_slides/summer24_session16_day25-26_annotated.pdf
+
+7,3,11-Jul,Video,C++ Classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431
+7,3,11-Jul,Video,Default Constructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3
+7,3,11-Jul,Slides,C++ Classes,slides/day27_cpp_classes.pdf
+7,3,11-Jul,Slides,Default Constructors,slides/day27_default_constructor.pdf
+7,3,11-Jul,Recap,Day 27,questions/day27.html
+7,3,11-Jul,Exercise,Exercise 27,exercise/ex27.html
+7,3,11-Jul,Video,Constructors and default arguments,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050
+7,3,11-Jul,Video,Destructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3
+7,3,11-Jul,Slides,Constructors and default arguments,slides/day28_constructors.pdf
+7,3,11-Jul,Slides,Destructors,slides/day28_destructors.pdf
+7,3,11-Jul,Recap,Day 28,questions/day28.html
+7,3,11-Jul,Exercise,Exercise 28,exercise/ex28.html
+7,3,11-Jul,LectureSlides,"Day 17 Notes (annotated)",slides/summer24_slides/summer24_session17_day27-28_annotated.pdf
+
+8,1,14-Jul,Video,Function overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65
+8,1,14-Jul,Video,Operator overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e
+8,1,14-Jul,Slides,Function overloading,slides/day29_function_overloading.pdf
+8,1,14-Jul,Slides,Operator overloading,slides/day29_operator_overloading.pdf
+8,1,14-Jul,Recap,Day 29,questions/day29.html
+8,1,14-Jul,Exercise,Exercise 29,exercise/ex29.html
+8,1,14-Jul,Video,Initialization and assignment,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93
+8,1,14-Jul,Video,Rule of 3,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3
+8,1,14-Jul,Slides,Initialization and assignment,slides/day30_initialization_assignments.pdf
+8,1,14-Jul,Slides,Rule of 3,slides/day30_rule_of_3.pdf
+8,1,14-Jul,Recap,Day 30,questions/day30.html
+8,1,14-Jul,Exercise,Exercise 30,exercise/ex30.html
+8,1,14-Jul,LectureSlides,"Day 18 Notes (annotated)",slides/summer24_slides/summer24_session18_day29-30_annotated.pdf
 
 
-7,1,15-Jul,Video,Template functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6
-7,1,15-Jul,Video,Template classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79
-7,1,15-Jul,Slides,Template functions,slides/day31_template_functions.pdf
-7,1,15-Jul,Slides,Template classes,slides/day31_template_classes.pdf
-7,1,15-Jul,Recap,Day 31,questions/day31.html
-7,1,15-Jul,Exercise,Exercise 31,exercise/ex31.html
-7,1,15-Jul,Video,Inheritance,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea
-7,1,15-Jul,Video,Polymorphism,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28
-7,1,15-Jul,Slides,Inheritance,slides/day32_inheritance.pdf
-7,1,15-Jul,Slides,Polymorphism,slides/day32_polymorphism.pdf
-7,1,15-Jul,Recap,Day 32,questions/day32.html
-7,1,15-Jul,Exercise,Exercise 32,exercise/ex32.html
-7,1,15-Jul,LectureSlides,"Day 19 Notes (annotated)",slides/summer24_slides/summer24_session19_day31-32_annotated.pdf
+8,2,16-Jul,Video,Template functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6
+8,2,16-Jul,Video,Template classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79
+8,2,16-Jul,Slides,Template functions,slides/day31_template_functions.pdf
+8,2,16-Jul,Slides,Template classes,slides/day31_template_classes.pdf
+8,2,16-Jul,Recap,Day 31,questions/day31.html
+8,2,16-Jul,Exercise,Exercise 31,exercise/ex31.html
+8,2,16-Jul,Video,Inheritance,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea
+8,2,16-Jul,Video,Polymorphism,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28
+8,2,16-Jul,Slides,Inheritance,slides/day32_inheritance.pdf
+8,2,16-Jul,Slides,Polymorphism,slides/day32_polymorphism.pdf
+8,2,16-Jul,Recap,Day 32,questions/day32.html
+8,2,16-Jul,Exercise,Exercise 32,exercise/ex32.html
+8,2,16-Jul,LectureSlides,"Day 19 Notes (annotated)",slides/summer24_slides/summer24_session19_day31-32_annotated.pdf
 
-7,2,17-Jul,Video,Dynamic dispatch,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe
-7,2,17-Jul,Video,Function hiding and abstract classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986
-7,2,17-Jul,Video,Virtual destructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d6fdb70-910c-4823-b4a0-ae23002797a1
-7,2,17-Jul,Slides,Dynamic dispatch,slides/day33_dynamic_dispatch.pdf
-7,2,17-Jul,Slides,Function hiding and abstract classes,slides/day33_function_hiding_abstract_classes.pdf
-7,2,17-Jul,Slides,Virtual destructors,slides/day33_virtual_destructors.pdf
-7,2,17-Jul,Recap,Day 33,questions/day33.html
-7,2,17-Jul,Exercise,Exercise 33,exercise/ex33.html
-7,2,17-Jul,Video,OO Design & UML Diagrams,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2edb2b97-e40e-4200-94ce-ae23002790c9
-7,2,17-Jul,Slides,OO Design & UML Diagrams,slides/day34_oo_design_uml.pdf
-7,2,17-Jul,Recap,Day 34,questions/day34.html
-7,2,17-Jul,Exercise,Work on final project,#
-7,2,17-Jul,LectureSlides,"Day 20 Notes (annotated)",slides/summer24_slides/summer24_session20_day33-34_annotated.pdf
+8,3,18-Jul,Video,Dynamic dispatch,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe
+8,3,18-Jul,Video,Function hiding and abstract classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986
+8,3,18-Jul,Video,Virtual destructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d6fdb70-910c-4823-b4a0-ae23002797a1
+8,3,18-Jul,Slides,Dynamic dispatch,slides/day33_dynamic_dispatch.pdf
+8,3,18-Jul,Slides,Function hiding and abstract classes,slides/day33_function_hiding_abstract_classes.pdf
+8,3,18-Jul,Slides,Virtual destructors,slides/day33_virtual_destructors.pdf
+8,3,18-Jul,Recap,Day 33,questions/day33.html
+8,3,18-Jul,Exercise,Exercise 33,exercise/ex33.html
+8,3,18-Jul,Video,OO Design & UML Diagrams,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2edb2b97-e40e-4200-94ce-ae23002790c9
+8,3,18-Jul,Slides,OO Design & UML Diagrams,slides/day34_oo_design_uml.pdf
+8,3,18-Jul,Recap,Day 34,questions/day34.html
+8,3,18-Jul,Exercise,Work on final project,#
+8,3,18-Jul,LectureSlides,"Day 20 Notes (annotated)",slides/summer24_slides/summer24_session20_day33-34_annotated.pdf
 
-7,3,19-Jul,Video,Enumerated Types,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00c8e477-aa8e-4357-bd0e-ae230027992c
-7,3,19-Jul,Video,Exceptions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e2654d0-197a-49fb-8d90-ae23002798b8
-7,3,19-Jul,Video,Customized Exceptions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53afa435-461a-4814-bfc2-ae2300279850
-7,3,19-Jul,Slides,Enumerated Types,slides/day35_enum.pdf
-7,3,19-Jul,Slides,Exceptions,slides/day35_exceptions.pdf
-7,3,19-Jul,Slides,Customized Exceptions,slides/day35_customized_exceptions.pdf
-7,3,19-Jul,Recap,Day 35,questions/day35.html
-7,3,19-Jul,Exercise,Exercise 35,exercise/ex35.html
-7,3,19-Jul,Exercise,Work on final project,#
-7,3,19-Jul,Video,Iterators,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=737a8372-4317-47c5-8492-ae23002795c1&query=iterator
-7,3,19-Jul,Slides,Iterators,slides/day36_iterators.pdf
-7,3,19-Jul,Recap,Day 37,questions/day37.html
-7,3,19-Jul,Exercise,Exercise 37,exercise/ex37.html
-7,3,19-Jul,LectureSlides,"Day 21 Notes (annotated)",slides/summer24_slides/summer24_session21_day35-37_annotated.pdf
+9,1,21-Jul,Video,Enumerated Types,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00c8e477-aa8e-4357-bd0e-ae230027992c
+9,1,21-Jul,Video,Exceptions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e2654d0-197a-49fb-8d90-ae23002798b8
+9,1,21-Jul,Video,Customized Exceptions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53afa435-461a-4814-bfc2-ae2300279850
+9,1,21-Jul,Slides,Enumerated Types,slides/day35_enum.pdf
+9,1,21-Jul,Slides,Exceptions,slides/day35_exceptions.pdf
+9,1,21-Jul,Slides,Customized Exceptions,slides/day35_customized_exceptions.pdf
+9,1,21-Jul,Recap,Day 35,questions/day35.html
+9,1,21-Jul,Exercise,Exercise 35,exercise/ex35.html
+9,1,21-Jul,Exercise,Work on final project,#
+9,1,21-Jul,Video,Iterators,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=737a8372-4317-47c5-8492-ae23002795c1&query=iterator
+9,1,21-Jul,Slides,Iterators,slides/day36_iterators.pdf
+9,1,21-Jul,Recap,Day 37,questions/day37.html
+9,1,21-Jul,Exercise,Exercise 37,exercise/ex37.html
+9,1,21-Jul,LectureSlides,"Day 21 Notes (annotated)",slides/summer24_slides/summer24_session21_day35-37_annotated.pdf
 
 
-8,1,22-Jul,Video,Lambdas,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47
-8,1,22-Jul,Slides,Lambdas,slides/day37_lambdas.pdf
-8,1,22-Jul,Recap,Day 38,questions/day38.html
-8,1,22-Jul,Exercise,Work on final project,#
-8,1,22-Jul,LectureSlides,"Day 22 Notes (annotated)",slides/summer24_slides/summer24_session22_day38-00_annotated.pdf
+9,2,23-Jul,Video,Lambdas,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47
+9,2,23-Jul,Slides,Lambdas,slides/day37_lambdas.pdf
+9,2,23-Jul,Recap,Day 38,questions/day38.html
+9,2,23-Jul,Exercise,Work on final project,#
+9,2,23-Jul,LectureSlides,"Day 22 Notes (annotated)",slides/summer24_slides/summer24_session22_day38-00_annotated.pdf
 
-8,2,24-Jul,Exercise,Work on final project,#
+9,3,25-Jul,Exercise,Work on final project,#
 
-8,3,26-Jul,Exercise,Final exam,#
+10,1,28-Jul,TBD,#
 
+10,2,30-Jul,TBD,#
+
+10,3,26-Jul,Exercise,Final exam,#
