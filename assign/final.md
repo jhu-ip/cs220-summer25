@@ -9,7 +9,7 @@ title: "Final Project"
 <div class='content'>
 <ul>
 <li>You are expected to work in a team of two or three.</li>
-<li><strong>Due: Friday July 26th at 11pm EDT (Baltimore time).</strong>
+<li><strong>Due: Friday August 1st at 11pm EDT (Baltimore time).</strong>
   Note: late submissions will not be accepted, please plan accordingly.</li>
 </ul>
 </div>
