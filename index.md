@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Intermediate Programming, Summer 2024"
+title: "Intermediate Programming, Summer 2025"
 category: "home"
 ---
 
-Welcome to the website for Intermediate Programming (Summer 2024) at
+Welcome to the website for Intermediate Programming (Summer 2025) at
 <a class="external" target="_blank" href="https://www.jhu.edu/">Johns Hopkins University</a>!
 
 *Course description*: This course teaches intermediate to advanced
@@ -28,10 +28,10 @@ Use the links at the top of the page to navigate the site.
 team collaborations as well as group and individual
 source code version control. Scaffolding/starter files of
 exercises, homeworks, and projects are shared via the course
-<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-summer24-public">public repository</a>.
+<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-summer25-public">public repository</a>.
 You may never share your private repository with anyone else.
 
-<a class="external" target="_blank" href="https://piazza.com/jhu/summer2024/601220/home">Piazza</a> is
+<a class="external" target="_blank" href="https://piazza.com/jhu/summer2025/601220/home">Piazza</a> is
 the main communication channel. If you have any questions or concerns,
 post on Piazza. You can do either public or private posts (anonymously
 if you want!). If others could potentially benefit from your question,
@@ -46,10 +46,10 @@ to the course Gradescope in the first week.
 
 ## News
  
-* **Jun 03** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 6th.
-* **Jun 12** - Assignment [homework 3](assign/hw3.html) is available.
-* **Jun 20** - [Midterm project](assign/midterm.html) has been released. Please check that your midterm project repository was created.
-* **Jun 24** - [Midterm project](assign/midterm.html) deadline has been extended to Saturday June 29th. 
-* **Jul 04** - Assignment [homework 5](assign/hw5.html) is available.
-* **Jul 10** - Assignment [homework 7](assign/hw7.html) is available.
-* **Jul 16** - [Final project](assign/final.html) is available.
+* **May 28** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 2nd.
+[comment]: #* **Jun 12** - Assignment [homework 3](assign/hw3.html) is available.
+[comment]: #* **Jun 20** - [Midterm project](assign/midterm.html) has been released. Please check that your midterm project repository was created.
+[comment]: #* **Jun 24** - [Midterm project](assign/midterm.html) deadline has been extended to Saturday June 29th. 
+[comment]: #* **Jul 04** - Assignment [homework 5](assign/hw5.html) is available.
+[comment]: #* **Jul 10** - Assignment [homework 7](assign/hw7.html) is available.
+[comment]: #* **Jul 16** - [Final project](assign/final.html) is available.
