@@ -515,13 +515,13 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   </tbody>
 </table>
 </div>
-<button type="button" id="week_10_toggle" class="week_control_button">Week 10 (26-Jul to 26-Jul)</button>
+<button type="button" id="week_10_toggle" class="week_control_button">Week 10 (2-Aug to 2-Aug)</button>
 <div id="week_10" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 26 (26-Jul)</th>
+      <th>Day 26 (2-Aug)</th>
     </tr>
   </thead>
   <tbody>
