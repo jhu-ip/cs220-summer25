@@ -138,34 +138,29 @@ Week,Day,Date,Type,Link text,URL
 4,3,20-Jun,Recap,N/A,#
 4,3,20-Jun,LectureSlides,Day 12 Notes (annotated),slides/summer24_slides/summer24_session12_day00-00_annotated.pdf
 
-4,3,23-Jun,Video,N/A,#
-4,3,23-Jun,Slides,N/A,#
-4,3,23-Jun,Recap,N/A,#
-4,3,23-Jun,Exercise,TBD
+5,1,23-Jun,Video,N/A,#
+5,1,23-Jun,Slides,N/A,#
+5,1,23-Jun,Recap,N/A,#
+5,1,23-Jun,Exercise,TBD
 
-5,1,25-Jun,Video,N/A,#
-5,1,25-Jun,Slides,N/A,#
-5,1,25-Jun,Recap,N/A,#
-5,1,25-Jun,Exercise,TBD
+5,2,25-Jun,Video,N/A,#
+5,2,25-Jun,Slides,N/A,#
+5,2,25-Jun,Recap,N/A,#
+5,2,25-Jun,Exercise,TBD
 
-5,2,27-Jun,Video,N/A,#
-5,2,27-Jun,Slides,N/A,#
-5,2,27-Jun,Recap,N/A,#
-5,2,27-Jun,Exercise,TBD
+5,3,27-Jun,Video,N/A,#
+5,3,27-Jun,Slides,N/A,#
+5,3,27-Jun,Recap,N/A,#
+5,3,27-Jun,Resource,Midterm Review Solutions,resources/MidtermReview-solutions.pdf
+5,3,27-Jun,Resource,Fall 2019 Midterm Solutions,resources/Midterm-Fall2019-solutions.pdf
+5,3,27-Jun,Exercise,TBD
 
-5,3,30-Jun,Video,N/A,#
-5,3,30-Jun,Slides,N/A,#
-5,3,30-Jun,Recap,N/A,#
-5,3,30-Jun,Resource,Midterm Review Solutions,resources/MidtermReview-solutions.pdf
-5,3,30-Jun,Resource,Fall 2019 Midterm Solutions,resources/Midterm-Fall2019-solutions.pdf
-5,3,30-Jun,Exercise,TBD
-
-6,1,2-Jul,Video,Introduction to C++,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb
-6,1,2-Jul,Video,C++ Strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f
-6,1,2-Jul,Slides,Introduction to C++,slides/day22_intro_cpp.pdf
-6,1,2-Jul,Slides,C++ Strings,slides/day22_cpp_strings.pdf
-6,1,2-Jul,Recap,Day 22,questions/day22.html
-6,1,2-Jul,LectureSlides,Day 13 Notes (annotated),slides/summer24_slides/summer24_session13_day22-00_annotated.pdf
+6,1,30-Jun,Video,Introduction to C++,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb
+6,1,30-Jun,Video,C++ Strings,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f
+6,1,30-Jun,Slides,Introduction to C++,slides/day22_intro_cpp.pdf
+6,1,30-Jun,Slides,C++ Strings,slides/day22_cpp_strings.pdf
+6,1,30-Jun,Recap,Day 22,questions/day22.html
+6,1,30-Jun,LectureSlides,Day 13 Notes (annotated),slides/summer24_slides/summer24_session13_day22-00_annotated.pdf
 
 6,2,2-Jul,Exercise,Midterm Exam,#
 

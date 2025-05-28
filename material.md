@@ -197,19 +197,19 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
       <td>Videos</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6'>Linked lists</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42'>More Linked lists</a></td>
       <td>N/A</td>
-      <td>N/A<br>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Slides</td>
       <td><a href='slides/day16_linked_lists.pdf'>Linked lists</a><br><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a></td>
       <td>N/A</td>
-      <td>N/A<br>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td><a href='questions/day17.html'>Day 17</a><br><a href='questions/day18.html'>Day 18</a></td>
       <td>N/A</td>
-      <td>N/A<br>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
@@ -238,15 +238,15 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   </tbody>
 </table>
 </div>
-<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (25-Jun to 30-Jun)</button>
+<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-Jun to 27-Jun)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 12 (25-Jun)</th>
-      <th>Day 13 (27-Jun)</th>
-      <th>Day 14 (30-Jun)</th>
+      <th>Day 12 (23-Jun)</th>
+      <th>Day 13 (25-Jun)</th>
+      <th>Day 14 (27-Jun)</th>
     </tr>
   </thead>
   <tbody>
@@ -295,13 +295,13 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   </tbody>
 </table>
 </div>
-<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (2-Jul to 2-Jul)</button>
+<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (30-Jun to 2-Jul)</button>
 <div id="week_6" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 15 (2-Jul)</th>
+      <th>Day 15 (30-Jun)</th>
       <th>Day 16 (2-Jul)</th>
     </tr>
   </thead>
