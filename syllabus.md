@@ -43,7 +43,7 @@ syllabus as deemed necessary with notice.)*
 **Instructor**
 
 Paul Martin\
-<mailto:pdm@jh.edu>\\
+<mailto:pdm@jhu.edu>\\
 Office hours: By appointment (for online courses)
 
 **Meetings**
@@ -53,7 +53,7 @@ MWF 9:00 am – 10:50 am, via Zoom
 **Head Teaching Assistant**
 
 Rachael Pei\
-<mailto:rpei2@jh.edu>\\
+<mailto:rpei2@jhu.edu>\\
 Office hours: By appointment (for online courses)
 
 **Textbooks**

@@ -14,7 +14,7 @@ category: "staff"
     <div class="details">
      <span class="name_and_role">Paul Martin</span><br>
      Department of Computer Science<br>
-     Email: <a href="mailto:pdm@jh.edu">pdm@jh.edu</a><br>
+     Email: <a href="mailto:pdm@jhu.edu">pdm@jh.edu</a><br>
      <!-- Web: <a class="external" target="_blank" href="https://github.com/pauldmartinphd">https://github.com/pauldmartinphd</a><br> -->
      Office hours: By appointment (for online courses)
     </div>
