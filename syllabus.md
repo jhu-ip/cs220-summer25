@@ -79,9 +79,6 @@ The following sites will be used heavily during the course:
 -   The course website is
     [jhu-ip.github.io/cs220-summer25/](https://jhu-ip.github.io/cs220-summer25).
 
--   Slack
-    (<a class="external" target="_blank" href="https://join.slack.com/t/cs220intermed-v4s2392/shared_invite/zt-1vwjuglw4-ojh7TV9u~bWANyAHxrOiGA">Link to join slack workspace</a>) will be used for questions during the synchronous sessions
-
 -   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
     for assignment submission, grades and feedback; you will receive an
     email invitation to this course on Gradescope.
