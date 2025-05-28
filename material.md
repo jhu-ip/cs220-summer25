@@ -515,42 +515,58 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   </tbody>
 </table>
 </div>
-<button type="button" id="week_10_toggle" class="week_control_button">Week 10 (2-Aug to 2-Aug)</button>
+<button type="button" id="week_10_toggle" class="week_control_button">Week 10 (28-Jul to 2-Aug)</button>
 <div id="week_10" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 26 (2-Aug)</th>
+      <th>Day 26 (28-Jul)</th>
+      <th>Day 27 (30-Jul)</th>
+      <th>Day 28 (2-Aug)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
+      <td>N/A</td>
+      <td>N/A</td>
       <td></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <td>N/A</td>
+      <td>N/A</td>
       <td></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
+      <td>N/A</td>
+      <td>N/A</td>
       <td></td>
     </tr>
     <tr>
       <td>Exercise</td>
+      <td></td>
+      <td></td>
       <td>Final exam</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
