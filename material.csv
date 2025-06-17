@@ -68,80 +68,106 @@ Week,Day,Date,Type,Link text,URL
 2,2,4-Jun,Exercise,Exercise 8,exercise/ex08.html
 2,2,4-Jun,LectureSlides,Day 4 Notes (annotated),slides/summer24_slides/summer24_session04_day07-08_annotated.pdf
 
-2,3,6-Jun,Slides,"Multidimensional arrays, gdb",slides/day09_multidimensional_arrays_gdb.pdf
-2,3,6-Jun,Video,"Multidimensional arrays, gdb",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824
-2,3,6-Jun,Recap,Day 9,questions/day09.html
-2,3,6-Jun,Exercise,Exercise 9,exercise/ex09.html
-2,3,6-Jun,Resource,GDB Cheat Sheet,https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
-2,3,6-Jun,Video,Pointers,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3
-2,3,6-Jun,Slides,Pointers,slides/day10_pointers.pdf
-2,3,6-Jun,Recap,Day 10,questions/day10.html
-2,3,6-Jun,Exercise,Exercise 10,exercise/ex10.html
-2,3,6-Jun,Resource,Binky the Pointer (Video),https://www.youtube.com/watch?v=5VnDaHBi8dM
-2,3,6-Jun,LectureSlides,Day 5 Notes (annotated),slides/summer24_slides/summer24_session05_day09-10_annotated.pdf
+2,3,6-Jun,Slides,Function declarations,slides/day07_function_declaration.pdf
+2,3,6-Jun,Slides,Passing arrays to functions,slides/day07_passing_arrays_to_functions.pdf
+2,3,6-Jun,Slides,Recursion,slides/day07_recursion.pdf
+2,3,6-Jun,Video,Function declarations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbef007b-88a8-4e42-bcc4-ae230027a8f4
+2,3,6-Jun,Video,Passing arrays to functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c18158bd-cf31-48c4-a2c0-ae230027a87e
+2,3,6-Jun,Video,Recursion,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12215376-94e9-48dd-8d5a-ae230027937e
+2,3,6-Jun,Recap,Day 7,questions/day07.html
+2,3,6-Jun,Exercise,Exercise 7,exercise/ex07.html
+2,3,6-Jun,Slides,Separate compilation,slides/day08_separate_compilation.pdf
+2,3,6-Jun,Slides,Makefiles,slides/day08_makefiles.pdf
+2,3,6-Jun,Slides,Header guards,slides/day08_header_guards.pdf
+2,3,6-Jun,Video,Separate compilation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76660996-f221-4bda-85bf-ae230027aa0b
+2,3,6-Jun,Video,Makefiles,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=956ae811-74a5-48f2-8d73-ae230027a9b0
+2,3,6-Jun,Video,Header guards,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948
+2,3,6-Jun,Recap,Day 8,questions/day08.html
+2,3,6-Jun,Exercise,Exercise 8,exercise/ex08.html
+2,3,6-Jun,LectureSlides,Day 4 Notes (annotated),slides/summer24_slides/summer24_session04_day07-08_annotated.pdf
 
-3,1,9-Jun,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746
-3,1,9-Jun,Video,Valgrind,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2
-3,1,9-Jun,Slides,Dynamic Memory Allocation,slides/day11_dynamic_memory_allocation.pdf
-3,1,9-Jun,Slides,Valgrind,slides/day11_valgrind.pdf
-3,1,9-Jun,Recap,Day 11,questions/day11.html
-3,1,9-Jun,Exercise,Exercise 11,exercise/ex11.html
-3,1,9-Jun,Video,Pointer Arithmetic,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303
-3,1,9-Jun,Video,"Dynamic 2-D Arrays, Pointers and Const",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9
-3,1,9-Jun,Slides,Pointer Arithmetic,slides/day12_pointer_arithmetic.pdf
-3,1,9-Jun,Slides,"Dynamic 2-D Arrays, Pointers and Const",slides/day12_more_pointers_dynamic_2d_arrays.pdf
-3,1,9-Jun,Recap,Day 12,questions/day12.html
-3,1,9-Jun,Exercise,Exercise 12,exercise/ex12.html
-3,1,9-Jun,LectureSlides,Day 6 Notes (annotated),slides/summer24_slides/summer24_session06_day11-12_annotated.pdf
+3,1,9-Jun,Slides,"Multidimensional arrays, gdb",slides/day09_multidimensional_arrays_gdb.pdf
+3,1,9-Jun,Video,"Multidimensional arrays, gdb",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824
+3,1,9-Jun,Recap,Day 9,questions/day09.html
+3,1,9-Jun,Exercise,Exercise 9,exercise/ex09.html
+3,1,9-Jun,Resource,GDB Cheat Sheet,https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+3,1,9-Jun,Video,Pointers,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3
+3,1,9-Jun,Slides,Pointers,slides/day10_pointers.pdf
+3,1,9-Jun,Recap,Day 10,questions/day10.html
+3,1,9-Jun,Exercise,Exercise 10,exercise/ex10.html
+3,1,9-Jun,Resource,Binky the Pointer (Video),https://www.youtube.com/watch?v=5VnDaHBi8dM
+3,1,9-Jun,LectureSlides,Day 5 Notes (annotated),slides/summer24_slides/summer24_session05_day09-10_annotated.pdf
+
+3,2,11-Jun,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746
+3,2,11-Jun,Video,Valgrind,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2
+3,2,11-Jun,Slides,Dynamic Memory Allocation,slides/day11_dynamic_memory_allocation.pdf
+3,2,11-Jun,Slides,Valgrind,slides/day11_valgrind.pdf
+3,2,11-Jun,Recap,Day 11,questions/day11.html
+3,2,11-Jun,Exercise,Exercise 11,exercise/ex11.html
+3,2,11-Jun,Video,Pointer Arithmetic,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303
+3,2,11-Jun,Video,"Dynamic 2-D Arrays, Pointers and Const",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9
+3,2,11-Jun,Slides,Pointer Arithmetic,slides/day12_pointer_arithmetic.pdf
+3,2,11-Jun,Slides,"Dynamic 2-D Arrays, Pointers and Const",slides/day12_more_pointers_dynamic_2d_arrays.pdf
+3,2,11-Jun,Recap,Day 12,questions/day12.html
+3,2,11-Jun,Exercise,Exercise 12,exercise/ex12.html
+3,2,11-Jun,LectureSlides,Day 6 Notes (annotated),slides/summer24_slides/summer24_session06_day11-12_annotated.pdf
 
 
-3,2,11-Jun,Video,Lifetime/Scope,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663
-3,2,11-Jun,Video,Structs,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4
-3,2,11-Jun,Video,Random number generation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7
-3,2,11-Jun,Slides,Lifetime/Scope,slides/day13_lifetime_scope.pdf
-3,2,11-Jun,Slides,Structs,slides/day13_struct_type.pdf
-3,2,11-Jun,Slides,Random number generation,slides/day13_random_numbers.pdf
-3,2,11-Jun,Recap,Day 13,questions/day13.html
-3,2,11-Jun,Exercise,Exercise 13,exercise/ex13.html
-3,2,11-Jun,Video,Binary file I/O,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f
-3,2,11-Jun,Video,Bitwise operations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246
-3,2,11-Jun,Slides,Binary file I/O,slides/day14_binary_file_io.pdf
-3,2,11-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
-3,2,11-Jun,Recap,Day 14,questions/day14.html
-3,2,11-Jun,Exercise,Exercise 14,exercise/ex14.html
-3,2,11-Jun,LectureSlides,Day 7 Notes (annotated),slides/summer24_slides/summer24_session07_day13-14_annotated.pdf
+3,3,13-Jun,Video,Lifetime/Scope,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663
+3,3,13-Jun,Video,Structs,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4
+3,3,13-Jun,Video,Random number generation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7
+3,3,13-Jun,Slides,Lifetime/Scope,slides/day13_lifetime_scope.pdf
+3,3,13-Jun,Slides,Structs,slides/day13_struct_type.pdf
+3,3,13-Jun,Slides,Random number generation,slides/day13_random_numbers.pdf
+3,3,13-Jun,Recap,Day 13,questions/day13.html
+3,3,13-Jun,Exercise,Exercise 13,exercise/ex13.html
+3,3,13-Jun,Video,Binary file I/O,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f
+3,3,13-Jun,Video,Bitwise operations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246
+3,3,13-Jun,Slides,Binary file I/O,slides/day14_binary_file_io.pdf
+3,3,13-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
+3,3,13-Jun,Recap,Day 14,questions/day14.html
+3,3,13-Jun,Exercise,Exercise 14,exercise/ex14.html
+3,3,13-Jun,LectureSlides,Day 7 Notes (annotated),slides/summer24_slides/summer24_session07_day13-14_annotated.pdf
 
-3,3,13-Jun,Video,"Number representation,<br>type conversion/casting",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af
-3,3,13-Jun,Slides,"Number representation,<br>type conversion/casting",slides/day15_number_rep_type_conversions.pdf
-3,3,13-Jun,Recap,Day 15,questions/day15.html
-3,3,13-Jun,Exercise,Exercise 15,exercise/ex15.html
-3,3,13-Jun,Slides,"Midterm project overview", slides/summer23_slides/summer23_midterm_project_overview.pdf
-3,3,13-Jun,LectureSlides,Day 9 Notes (annotated),slides/summer24_slides/summer24_session09_day15-00_annotated.pdf
 
-4,1,16-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
-4,1,16-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
-4,1,16-Jun,Recap,Day 17,questions/day17.html
-4,1,16-Jun,Exercise,Exercise 17,exercise/ex17.html
-4,1,16-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
-4,1,16-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
-4,1,16-Jun,Recap,Day 18,questions/day18.html
-4,1,16-Jun,Exercise,Exercise 18,exercise/ex18.html
-4,1,16-Jun,LectureSlides,Day 10 Notes (annotated),slides/summer24_slides/summer24_session10_day17-18_annotated.pdf
+4,1,16-Jun,Video,Lifetime/Scope,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663
+4,1,16-Jun,Video,Structs,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4
+4,1,16-Jun,Video,Random number generation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7
+4,1,16-Jun,Slides,Lifetime/Scope,slides/day13_lifetime_scope.pdf
+4,1,16-Jun,Slides,Structs,slides/day13_struct_type.pdf
+4,1,16-Jun,Slides,Random number generation,slides/day13_random_numbers.pdf
+4,1,16-Jun,Recap,Day 13,questions/day13.html
+4,1,16-Jun,Exercise,Exercise 13,exercise/ex13.html
+4,1,16-Jun,Video,Binary file I/O,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f
+4,1,16-Jun,Video,Bitwise operations,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246
+4,1,16-Jun,Slides,Binary file I/O,slides/day14_binary_file_io.pdf
+4,1,16-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
+4,1,16-Jun,Recap,Day 14,questions/day14.html
+4,1,16-Jun,Exercise,Exercise 14,exercise/ex14.html
+4,1,16-Jun,LectureSlides,Day 7 Notes (annotated),slides/summer24_slides/summer24_session07_day13-14_annotated.pdf
 
-4,2,18-Jun,Video,N/A,#
-4,2,18-Jun,Slides,N/A,#
-4,2,18-Jun,Recap,N/A,#
-4,2,18-Jun,Exercise,Midterm Project,assign/midterm.html
+4,2,18-Jun,Video,"Number representation,<br>type conversion/casting",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af
+4,2,18-Jun,Slides,"Number representation,<br>type conversion/casting",slides/day15_number_rep_type_conversions.pdf
+4,2,18-Jun,Recap,Day 15,questions/day15.html
+4,2,18-Jun,Exercise,Exercise 15,exercise/ex15.html
+4,2,18-Jun,Slides,"Midterm project overview", slides/summer23_slides/summer23_midterm_project_overview.pdf
+4,2,18-Jun,LectureSlides,Day 9 Notes (annotated),slides/summer24_slides/summer24_session09_day15-00_annotated.pdf
 
-4,3,20-Jun,Video,N/A,#
-4,3,20-Jun,Slides,N/A,#
-4,3,20-Jun,Recap,N/A,#
-4,3,20-Jun,LectureSlides,Day 12 Notes (annotated),slides/summer24_slides/summer24_session12_day00-00_annotated.pdf
+4,3,16-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
+4,3,16-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
+4,3,16-Jun,Recap,Day 17,questions/day17.html
+4,3,16-Jun,Exercise,Exercise 17,exercise/ex17.html
+4,3,16-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
+4,3,16-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
+4,3,16-Jun,Recap,Day 18,questions/day18.html
+4,3,16-Jun,Exercise,Exercise 18,exercise/ex18.html
+4,3,16-Jun,LectureSlides,Day 10 Notes (annotated),slides/summer24_slides/summer24_session10_day17-18_annotated.pdf
 
 5,1,23-Jun,Video,N/A,#
 5,1,23-Jun,Slides,N/A,#
 5,1,23-Jun,Recap,N/A,#
-5,1,23-Jun,Exercise,TBD
+5,1,23-Jun,LectureSlides,Day 12 Notes (annotated),slides/summer24_slides/summer24_session12_day00-00_annotated.pdf
+5,1,23-Jun,Exercise,Midterm Project,assign/midterm.html
 
 5,2,25-Jun,Video,N/A,#
 5,2,25-Jun,Slides,N/A,#
