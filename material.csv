@@ -188,19 +188,19 @@ Week,Day,Date,Type,Link text,URL
 6,1,30-Jun,Recap,Day 22,questions/day22.html
 6,1,30-Jun,LectureSlides,Day 13 Notes (annotated),slides/summer24_slides/summer24_session13_day22-00_annotated.pdf
 
-6,2,2-Jul,Exercise,Midterm Exam,#
+6,2,2-Jul,Video,Introduction to STL and templates,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736
+6,2,2-Jul,Slides,Introduction to STL and templates,slides/day23_stl_templates.pdf
+6,2,2-Jul,Recap,Day 23,questions/day23.html
+6,2,2-Jul,Exercise,Exercise 23,exercise/ex23.html
+6,2,2-Jul,Video,"STL Containers - map, pair, and tuple",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661
+6,2,2-Jul,Video,STL Algorithms,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be
+6,2,2-Jul,Slides,"STL Containers - map, pair, and tuple",slides/day24_more_stl_containers.pdf
+6,2,2-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
+6,2,2-Jul,Recap,Day 24,questions/day24.html
+6,2,2-Jul,Exercise,Exercise 24,exercise/ex24.html
+6,2,2-Jul,LectureSlides,"Day 15 Notes (annotated)",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
 
-7,1,7-Jul,Video,Introduction to STL and templates,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736
-7,1,7-Jul,Slides,Introduction to STL and templates,slides/day23_stl_templates.pdf
-7,1,7-Jul,Recap,Day 23,questions/day23.html
-7,1,7-Jul,Exercise,Exercise 23,exercise/ex23.html
-7,1,7-Jul,Video,"STL Containers - map, pair, and tuple",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661
-7,1,7-Jul,Video,STL Algorithms,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be
-7,1,7-Jul,Slides,"STL Containers - map, pair, and tuple",slides/day24_more_stl_containers.pdf
-7,1,7-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
-7,1,7-Jul,Recap,Day 24,questions/day24.html
-7,1,7-Jul,Exercise,Exercise 24,exercise/ex24.html
-7,1,7-Jul,LectureSlides,"Day 15 Notes (annotated)",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
+7,1,7-Jul,Exercise,Midterm Exam,#
 
 7,2,9-Jul,Video,C++ I/O stream and stringstream,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562
 7,2,9-Jul,Video,Intro to Object Oriented Programming,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599
