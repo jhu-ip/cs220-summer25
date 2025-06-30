@@ -309,22 +309,22 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     <tr>
       <td>Videos</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb'>Introduction to C++</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f'>C++ Strings</a></td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
     </tr>
     <tr>
       <td>Slides</td>
       <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a></td>
-      <td></td>
+      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a><br><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td><a href='questions/day22.html'>Day 22</a></td>
-      <td></td>
+      <td><a href='questions/day23.html'>Day 23</a><br><a href='questions/day24.html'>Day 24</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
       <td></td>
-      <td>Midterm Exam</td>
+      <td><a href='exercise/ex23.html'>Exercise 23</a><br><a href='exercise/ex24.html'>Exercise 24</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -334,7 +334,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     <tr>
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer24_slides/summer24_session13_day22-00_annotated.pdf'>Day 13 Notes (annotated)</a></td>
-      <td></td>
+      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes (annotated)</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
@@ -358,25 +358,25 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
+      <td></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562'>C++ I/O stream and stringstream</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599'>Intro to Object Oriented Programming</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516'>References</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc'>Dynamic Memory Allocation</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431'>C++ Classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3'>Default Constructors</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050'>Constructors and default arguments</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3'>Destructors</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a><br><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
+      <td></td>
       <td><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a><br><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
       <td><a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a><br><a href='slides/day28_constructors.pdf'>Constructors and default arguments</a><br><a href='slides/day28_destructors.pdf'>Destructors</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day23.html'>Day 23</a><br><a href='questions/day24.html'>Day 24</a></td>
+      <td></td>
       <td><a href='questions/day25.html'>Day 25</a><br><a href='questions/day26.html'>Day 26</a></td>
       <td><a href='questions/day27.html'>Day 27</a><br><a href='questions/day28.html'>Day 28</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex23.html'>Exercise 23</a><br><a href='exercise/ex24.html'>Exercise 24</a></td>
+      <td>Midterm Exam</td>
       <td><a href='exercise/ex25.html'>Exercise 25</a><br><a href='exercise/ex26.html'>Exercise 26</a></td>
       <td><a href='exercise/ex27.html'>Exercise 27</a><br><a href='exercise/ex28.html'>Exercise 28</a></td>
     </tr>
@@ -388,7 +388,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes (annotated)</a></td>
+      <td></td>
       <td><a href='slides/summer24_slides/summer24_session16_day25-26_annotated.pdf'>Day 16 Notes (annotated)</a></td>
       <td><a href='slides/summer24_slides/summer24_session17_day27-28_annotated.pdf'>Day 17 Notes (annotated)</a></td>
     </tr>
@@ -601,7 +601,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_4';
+    var active_week_id = 'week_6';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
