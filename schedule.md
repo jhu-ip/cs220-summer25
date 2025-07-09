@@ -19,11 +19,11 @@ Note that there is no Homework 2, 4, or 6.
 | [Homework 1](assign/hw1.html)          | Due June 9th              | Monday              |
 | [Homework 3](assign/hw3.html)          | Due June 16th             | Monday              |
 | [Midterm project](assign/midterm.html) | Due July 7th              | Monday              |
+| Midterm exam                           | July 7th                  | Monday (in class)   |
+| [Homework 5](assign/hw5.html)          | Due July 16th             | Wendnesday          |
 |----------------------------------------|---------------------------|---------------------|
 {% comment %}
-| Midterm exam                           | July 7th                  | Monday (in class)   |
-| [Homework 5](assign/hw5.html)          | Due July 14th             | Monday              |
-| [Homework 7](assign/hw7.html)          | Due July 21st             | Monday              |
+| [Homework 7](assign/hw7.html)          | Due July 23st             | Monday              |
 | [Final project](assign/final.html)     | Due August 1st            | Friday              |
 | Final exam                             | August 1st                | Friday (in class)   |
 |----------------------------------------|---------------------------|---------------------|
