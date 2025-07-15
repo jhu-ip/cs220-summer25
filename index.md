@@ -44,7 +44,5 @@ to the course Gradescope in the first week.
 * **Jun 12** - Assignment [homework 3](assign/hw3.html) is available and due on June 17th.
 * **Jun 18** - [Midterm project](assign/midterm.html) has been released. Your midterm project repository will be created by Friday once you have finalized your teams.
 * **Jul 09** - Assignment [homework 5](assign/hw5.html) is available.
-{% comment %}
-[comment]: #* **Jul 10** - Assignment [homework 7](assign/hw7.html) is available.
-[comment]: #* **Jul 16** - [Final project](assign/final.html) is available.
-{% endcomment %} 
+* **Jul 15** - Assignment [homework 7](assign/hw7.html) is available.
+* **Jul 15** - [Final project](assign/final.html) is available.
